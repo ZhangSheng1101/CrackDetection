@@ -1,0 +1,1 @@
+from .crack500 import *
